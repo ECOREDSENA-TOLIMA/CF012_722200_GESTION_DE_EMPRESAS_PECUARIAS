@@ -1,0 +1,23 @@
+<svg id="Grupo_1070664" data-name="Grupo 1070664" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="130" height="130" viewBox="0 0 130 130">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#820072"/>
+      <stop offset="1" stop-color="#b3009d"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_1072556" data-name="Grupo 1072556">
+    <circle id="Elipse_5779" data-name="Elipse 5779" cx="65" cy="65" r="65" fill="#3b5620"/>
+    <circle id="Elipse_5755" data-name="Elipse 5755" cx="59.894" cy="59.894" r="59.894" transform="translate(5 5)" fill="#fff"/>
+  </g>
+  <g id="Grupo_1072557" data-name="Grupo 1072557" transform="translate(24.859 32.217)">
+    <path id="Trazado_815292" data-name="Trazado 815292" d="M16.38,42.537a1.218,1.218,0,0,1-.718-2.2L37.5,24.442a1.216,1.216,0,0,1,1.433,0L60.065,39.813,81.19,24.442a1.218,1.218,0,1,1,1.433,1.969L60.779,42.3a1.218,1.218,0,0,1-1.433,0L38.218,26.932,17.1,42.3a1.214,1.214,0,0,1-.715.233Z" transform="translate(-9 -18.028)" fill="#477b9e"/>
+    <path id="Trazado_815293" data-name="Trazado 815293" d="M100.485,47.665h14.756V90.731H100.485Z" transform="translate(-34.959 -25.165)" fill="url(#linear-gradient)"/>
+    <path id="Trazado_815294" data-name="Trazado 815294" d="M69.092,70.507H83.848V97.681H69.092Z" transform="translate(-25.409 -32.114)" fill="#f4dd45"/>
+    <path id="Trazado_815295" data-name="Trazado 815295" d="M37.7,47.665H52.456V90.731H37.7Z" transform="translate(-15.858 -25.165)" fill="#669537"/>
+    <path id="Trazado_815296" data-name="Trazado 815296" d="M6.307,70.507H21.063V97.681H6.307Z" transform="translate(-6.307 -32.114)" fill="#7fb3fa"/>
+    <ellipse id="Elipse_5774" data-name="Elipse 5774" cx="5.234" cy="5.234" rx="5.234" ry="5.234" transform="translate(66.184 4.355) rotate(-20.844)" fill="url(#linear-gradient)"/>
+    <ellipse id="Elipse_5775" data-name="Elipse 5775" cx="5.233" cy="5.233" rx="5.233" ry="5.233" transform="matrix(0.229, -0.973, 0.973, 0.229, 44.756, 27.208)" fill="#f4dd45"/>
+    <circle id="Elipse_5776" data-name="Elipse 5776" cx="5.233" cy="5.233" r="5.233" transform="translate(21.815 7.399) rotate(-45)" fill="#669537"/>
+    <ellipse id="Elipse_5777" data-name="Elipse 5777" cx="5.234" cy="5.234" rx="5.234" ry="5.234" transform="translate(0.601 20.341) rotate(-21.461)" fill="#7fb3fa"/>
+  </g>
+</svg>
