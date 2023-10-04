@@ -40,7 +40,8 @@ export default {
             numero: '1.2',
             titulo: 'Tipos',
             hash: 't_1_2',
-          },{
+          },
+          {
             numero: '1.3',
             titulo: 'Codificación de la información',
             hash: 't_1_3',
@@ -49,7 +50,8 @@ export default {
             numero: '1.4',
             titulo: 'Tabulación de datos',
             hash: 't_1_4',
-          },{
+          },
+          {
             numero: '1.5',
             titulo: 'Gráficos',
             hash: 't_1_5',
@@ -67,7 +69,6 @@ export default {
         numero: '2',
         titulo: 'Normativa de seguridad informática',
         desarrolloContenidos: true,
-       
       },
       {
         nombreRuta: 'tema3',
@@ -102,7 +103,8 @@ export default {
             numero: '4.1',
             titulo: 'Hallazgos',
             hash: 't_4_1',
-          },{
+          },
+          {
             numero: '4.2',
             titulo: 'Pasos para implementarlo',
             hash: 't_4_2',
@@ -184,7 +186,6 @@ export default {
     },
   ],
   glosario: [
-    
     {
       termino: 'Cronograma',
       significado:
@@ -197,18 +198,15 @@ export default {
     },
     {
       termino: 'Inferencia',
-      significado:
-        'Que deduce una afirmación a partir de otra.',
+      significado: 'Que deduce una afirmación a partir de otra.',
     },
     {
       termino: 'Informe',
-      significado:
-        'Documento elaborado con el fin de compartir información.',
+      significado: 'Documento elaborado con el fin de compartir información.',
     },
     {
       termino: 'Muestra',
-      significado:
-        'Conjunto de población sobre la que se extraerán los datos.',
+      significado: 'Conjunto de población sobre la que se extraerán los datos.',
     },
     {
       termino: 'Parafraseo',
@@ -217,16 +215,15 @@ export default {
     },
     {
       termino: 'Población',
-      significado:
-        'Totalidad de individuos objeto de estudio.',
+      significado: 'Totalidad de individuos objeto de estudio.',
     },
   ],
   referencias: [
-   
     {
       referencia:
         'Agencia Nacional de Evaluación de la Calidad y Acreditación. (2015). Plan de mejoras, herramienta de trabajo. ',
-      link: 'https://www.academia.edu/28134046/PLAN_DE_MEJORAS_Herramienta_de_trabajo_Agencia_Nacional_de_Evaluaci%C3%B3n_de_la_Calidad_y_Acreditaci%C3%B3n  ',
+      link:
+        'https://www.academia.edu/28134046/PLAN_DE_MEJORAS_Herramienta_de_trabajo_Agencia_Nacional_de_Evaluaci%C3%B3n_de_la_Calidad_y_Acreditaci%C3%B3n  ',
     },
     {
       referencia:
