@@ -93,7 +93,7 @@
                   h2.text-center Estadística inferencial
                   p.text-center Busca deducir comportamientos a partir del análisis de información y los parámetros propios de un conjunto de datos. Esto significa que se centra en la modelación de patrones a partir de unos datos recolectados de un fenómeno presente; por lo que mezcla aspectos descriptivos con la anticipación o predicción de eventos futuros, extrapolando la evidencia recolectada
 
-        p.mb-5(data-aos="fade-left").text-center Para complementar el tema sobre estadística, se invita a ver el siguiente vídeo:
+        p.mb-5(data-aos="fade-left") Para complementar el tema sobre estadística, se invita a ver el siguiente vídeo:
 
     figure
     .video(data-aos="fade-right")
