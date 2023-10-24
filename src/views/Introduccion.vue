@@ -9,7 +9,7 @@
           i.fas.fa-info
       h1 Introducción
     
-    p.mb-5(data-aos="fade-left") Estimado aprendiz, la elaboración de informes implica una secuencia de procesos interconectados que pueden variar según el propósito del informe. En algunas ocasiones, se enfocará en un conjunto específico de datos, ya sean actuales o históricos. En otros casos, será necesario combinar información de múltiples fuentes. Todo dependerá del análisis que se requiera, os plazos pactados y los resultados esperados. En el siguiente vídeo podrá acceder a este interesante tema: 
+    p.mb-5(data-aos="fade-left") Estimado aprendiz, la elaboración de informes implica una secuencia de procesos interconectados que pueden variar según el propósito del informe. En algunas ocasiones, se enfocará en un conjunto específico de datos, ya sean actuales o históricos. En otros casos, será necesario combinar información de múltiples fuentes. Todo dependerá del análisis que se requiera, los plazos pactados y los resultados esperados. En el siguiente vídeo podrá acceder a este interesante tema: 
 
     figure
     .video(data-aos="fade-right")

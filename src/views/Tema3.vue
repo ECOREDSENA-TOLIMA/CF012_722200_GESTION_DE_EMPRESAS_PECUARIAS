@@ -284,7 +284,7 @@
             | #[b Cubierta:] esta página es opcional, contiene los mismos datos que la pasta y conserva la misma distribución.
           li 
             i.lista-ul__vineta
-            | #[b Portada:] es la página informativa del documento y proporciona los datos que permiten identificarlo. Incluye el título, el subtítulo (si lo hay), el nombre de él (los) autor(es), el tipo de trabajo realizado (tesis, monografía, trabajo, informe, etc.) y el nombre y título académico del director o asesor del trabajo. Estos elementos deben estar centrados en la página y a una distancia equidistante.
+            | #[b Portada:] es la página informativa del documento y proporciona los datos que permiten identificarlo. Incluye el título, el subtítulo (si lo hay), el nombre de el (los) autor(es), el tipo de trabajo realizado (tesis, monografía, trabajo, informe, etc.) y el nombre y título académico del director o asesor del trabajo. Estos elementos deben estar centrados en la página y a una distancia equidistante.
           li 
             i.lista-ul__vineta
             | #[b Página de aceptación:] en esta página se registran las firmas de los jurados que participan en la revisión, sustentación y aprobación del trabajo. También incluye la ciudad y fecha de entrega del trabajo.

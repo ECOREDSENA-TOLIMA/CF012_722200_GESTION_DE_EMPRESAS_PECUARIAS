@@ -130,7 +130,7 @@
             h4 Respuestas abiertas
             p La situación es más compleja cuando el formulario se nutre con preguntas de respuestas abiertas, aquí se hace necesario recolectar en primera medida la información para luego asignarles un carácter o número a cada opción de respuesta. Si la pluralidad de respuestas es muy diversa, el investigador puede optar por crear categorías de respuesta para reducir las opciones. 
             h4 Por ejemplo
-            p Una consulta asociada a los ingresos recibidos por una persona puede categorizarse en opciones como: de 0 a 1 millón, de 2 a 5 millones de 5 a 10 millones y más de 10 millones.
+            p Una consulta asociada a los ingresos recibidos por una persona puede categorizarse en opciones como: de 0 a 1 millón, de 2 a 5 millones, de 5 a 10 millones y más de 10 millones.
         
           .col-md-6
             figure
@@ -151,7 +151,7 @@
     #t_1_4.titulo-segundo.color-acento-contenido
       h2 1.4	Tabulación de datos
 
-    p.mb-5(data-aos="fade-left") Siguiendo la línea de los numerales anteriores, una vez la información ha sido recolectada por cualquiera de las metodologías aplicables #[b (observación, entrevistas, encuestas, entre otros)], es viable que la información sea organizada para ser representada de forma consolidada, y posibilitar un análisis más ágil y efectivo. Si se aplican sistemas de codificación, estos deben implementarse de manera previa, de tal forma que la tabulación contenga las variables ya codificadas 
+    p.mb-5(data-aos="fade-left") Siguiendo la línea de los numerales anteriores, una vez la información ha sido recolectada por cualquiera de las metodologías aplicables #[b (observación, entrevistas, encuestas, entre otros)], es viable que la información sea organizada para ser representada de forma consolidada, y posibilitar un análisis más ágil y efectivo. Si se aplican sistemas de codificación, estos deben implementarse de manera previa, de tal forma que la tabulación contenga las variables ya codificadas.
 
     .row.justify-content-center.mb-5
       .tarjeta.p-4(style="background-color:#DBF9BD")(data-aos="flip-up")
@@ -216,7 +216,7 @@
         p(data-aos="fade-left") Sin embargo, si el número de variables asciende a cifras que son poco prácticas para analizarse de forma individual, estas pueden ser agrupadas en intervalos para reducir el número de registros contenidos en la tabla. Si bien cada investigador podrá determinar el número de intervalos a su criterio, debe cumplir con las siguientes dos condiciones esenciales: 
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-8
+      .col-10
         .cajon.color-secundario.p-4
           ul.lista-ul
             li 
@@ -390,7 +390,7 @@
             ul.lista-ul--color
               li 
                 i.fas.fa-atom(style="color:#3B5620")
-                | El circulo representa la totalidad de los datos, mientras que cada “tajada” implica la porción correspondiente a una variable, se recomienda que se exprese en porcentajes.
+                | El círculo representa la totalidad de los datos, mientras que cada “tajada” implica la porción correspondiente a una variable, se recomienda que se exprese en porcentajes.
               li 
                 i.fas.fa-atom(style="color:#3B5620")
                 | Suele ser llamado diagrama de torta en el argot popular, ya que se asemeja a un pastel cortado en porciones para los comensales. 
