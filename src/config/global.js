@@ -273,7 +273,7 @@ export default {
         },
         {
           nombre: 'Jhon Jairo Rodríguez Pérez',
-          cargo: 'Diseñadora y Evaluador Instruccional',
+          cargo: 'Diseñador y Evaluador Instruccional',
           centro:
             'Regional Distrito Capital - Centro para la Industria de la Comunicación Gráfica',
         },
